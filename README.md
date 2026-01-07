@@ -28,4 +28,4 @@ The project uses the TMDB 5000 Movies dataset:
 The system outputs a list of recommended movies based on user input.
 
 ## Author
-Akshaya
+Akshaya Reddy Annareddy
